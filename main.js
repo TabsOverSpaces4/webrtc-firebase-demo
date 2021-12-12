@@ -5,6 +5,13 @@ import 'firebase/firestore';
 
 const firebaseConfig = {
   // your config
+  apiKey: "AIzaSyDnt-uVJkh8tImvEkXaco8Mjlj_OdOkT-Y",
+  authDomain: "video-call-335ea.firebaseapp.com",
+  projectId: "video-call-335ea",
+  storageBucket: "video-call-335ea.appspot.com",
+  messagingSenderId: "870544953930",
+  appId: "1:870544953930:web:51ddce82f309eb1d06ccb3",
+  measurementId: "G-3CSPV2GWMH"
 };
 
 if (!firebase.apps.length) {
